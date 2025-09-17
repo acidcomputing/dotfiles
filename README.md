@@ -3,6 +3,7 @@
 ║          A C I D    C O M P U T I N G          ║
 ╚════════════════════════════════════════════════╝
 ```
+# Dotfiles
 This is my personal dotfiles repo. It contains my Zsh configuration, aliases, and some other things as I add keep working on them.
 
 ## Zsh config
