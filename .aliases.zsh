@@ -1,12 +1,15 @@
 ## A c i d  C o m p u t i n g  ##############
 # Zsh aliases
 
-# Listing
+# Navigation
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
+alias ..='cd ..'
+alias ...=cd ../..
 
-# Personal
+
+# Daily use 
 alias fetch='fastfetch'
 alias ff='fastfetch'
 alias goodbye='sudo shutdown now'
