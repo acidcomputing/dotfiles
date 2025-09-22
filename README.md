@@ -4,7 +4,7 @@
 ╚════════════════════════════════════════════════╝
 ```
 # Dotfiles
-This is my personal dotfiles repo. It contains my Zsh configuration, aliases, and some other things as I add keep working on them.
+This is my personal dotfiles repo. It contains my Zsh configuration, aliases, and some other things as I keep working on them.
 
 ## Zsh config
 My Zsh config includes two main files: `.zshrc`, and `.aliases.zsh`. 
@@ -17,3 +17,9 @@ My config aims to stay out of the user's way while being powerful, with a custom
 - **Aliases:** `ls` aliases from Kali Linux, as well as custom ones :) 
 
 This Zsh configuration has been tested on Debian 13. It is not portable, and can't work on BSD or MacOS.
+
+## Pacman config
+Basic Pacman config.
+- Pacman eating pellets visual effect when synchronizing packages.
+- Parallel Downloads
+- Multilib support.
