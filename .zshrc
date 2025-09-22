@@ -47,12 +47,12 @@ zstyle ':completion:*:descriptions' format '%B%d%b'
 
 # --- Key Bindings ---
 # Word navigation
-bindkey "^[[1;3D" backward-word   # Alt + Left
-bindkey "^[[1;3C" forward-word    # Alt + Right
-bindkey "^[[1;5D" backward-word   # Ctrl + Left
-bindkey "^[[1;5C" forward-word    # Ctrl + Right
+bindkey "^[[1;3D" backward-word   # Alt + <--
+bindkey "^[[1;3C" forward-word    # Alt + -->
+bindkey "^[[1;5D" backward-word   # Ctrl + <--
+bindkey "^[[1;5C" forward-word    # Ctrl + -->
 
-# --- Prompt / Theme ---
+# --- Prompt Style ---
 PROMPT='%F{cyan}┌[%B%F{white}%n%b%f%F{cyan} ◆ %B%F{white}%M%b%f%F{cyan}]%F{white}-%F{cyan}(%B%F{white}%~%b%f%F{cyan})$(git_prompt_info)
 └> % %f'
 
