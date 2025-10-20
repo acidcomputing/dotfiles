@@ -1,2 +1,4 @@
+ffmpeg
+ffmpegthumbnailer
 vlc
 vlc-plugins-all
