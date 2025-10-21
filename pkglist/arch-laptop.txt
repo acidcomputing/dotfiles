@@ -1,4 +1,5 @@
 ffmpeg
 ffmpegthumbnailer
+plymouth
 vlc
 vlc-plugins-all
