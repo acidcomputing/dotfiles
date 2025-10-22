@@ -3,6 +3,7 @@ alsa-utils
 amd-ucode
 arp-scan
 asciiquarium
+audacity
 baobab
 base
 base-devel
@@ -32,6 +33,7 @@ gnome
 grub
 grub-btrfs
 gufw
+handbrake
 htop
 kdenlive
 keepassxc
