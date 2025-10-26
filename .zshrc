@@ -109,11 +109,19 @@ ZSH_HIGHLIGHT_STYLES[back-quoted-argument-delimiter]=fg=93,underline
 ZSH_HIGHLIGHT_STYLES[named-fd]=fg=99,bold
 
 # --- Plugins ---
-if [[ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]]; then
-  source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+# Detect plugin directories
+if [[ -d /usr/share/zsh/plugins ]]; then
+  ZSH_PLUGIN_DIR=/usr/share/zsh/plugins
+else
+  ZSH_PLUGIN_DIR=/usr/share
 fi
 
-if [[ -f /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
-  source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# Autosuggestions
+if [[ -f $ZSH_PLUGIN_DIR/zsh-autosuggestions/zsh-autosuggestions.zsh ]]; then
+  source $ZSH_PLUGIN_DIR/zsh-autosuggestions/zsh-autosuggestions.zsh
 fi
 
+# Syntax Highlighting (keep last or won't work)
+if [[ -f $ZSH_PLUGIN_DIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
+  source $ZSH_PLUGIN_DIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+fi
