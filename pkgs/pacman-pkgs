@@ -43,6 +43,7 @@ kdenlive
 keepassxc
 kitty
 lazygit
+lib32-nvidia-utils
 linux
 linux-firmware
 linux-headers
@@ -63,6 +64,8 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
+nvidia-open-dkms
+nvidia-utils
 obs-studio
 obsidian
 openbsd-netcat
