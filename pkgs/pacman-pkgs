@@ -39,6 +39,7 @@ grub-btrfs
 gufw
 handbrake
 htop
+i2c-tools
 kdenlive
 keepassxc
 kitty
@@ -69,7 +70,6 @@ nvidia-utils
 obs-studio
 obsidian
 openbsd-netcat
-openrgb
 openssh
 os-prober
 papirus-icon-theme
