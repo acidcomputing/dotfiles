@@ -32,6 +32,7 @@ firefox
 foliate
 font-manager
 fwupd
+gamescope
 gdm
 git
 gnome
@@ -57,7 +58,6 @@ mkvtoolnix-gui
 mtools
 mtpfs
 nano
-nautilus
 neovim
 network-manager-applet
 networkmanager
