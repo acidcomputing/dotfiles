@@ -25,7 +25,17 @@ Basic Pacman config.
 - Multilib support.
 
 ## Htop config
-Basic htop configuration.
+My `htop` configuration contains a simple config with the following, in the following order:
+- CPU cores (with speed and % usage)
+- RAM Usage
+- Swap Usage
+- Hostname
+- Uptime
+- Tasks
+- Load Average
+- Disk IO
+- Network IO
+- Battery
 
 ## Kitty config
 Basic kitty config with `ctrl + shift` as modifier key.
