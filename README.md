@@ -4,7 +4,8 @@
 ╚════════════════════════════════════════════════╝
 ```
 # Dotfiles
-This is my personal dotfiles repo. It contains my handwritten configuration files for Zsh, shell aliases, htop, kitty and other tools as I keep working on them.
+This is my personal dotfiles repo. It contains my handwritten configuration files for Zsh, shell aliases, htop, kitty and other tools.
+Feel free to copy, modify, distribute, or suggest changes. These are config files written for my personal machines.
 
 ## Zsh config
 My Zsh config includes two main files: `.zshrc`, and `.aliases.zsh`. 
@@ -26,6 +27,7 @@ Basic Pacman config.
 
 ## Htop config
 My `htop` configuration contains a simple config with these elements in the following order:
+
 [Column 1]
 - CPU cores (with speed and % usage)
 - RAM Usage
