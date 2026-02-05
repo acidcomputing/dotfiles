@@ -6,13 +6,15 @@ alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
 alias ..='cd ..'
-alias ...=cd ../..
+alias ...='cd ../..'
 
 
-# Daily use 
-alias fetch='fastfetch'
+# Personal
 alias ff='fastfetch'
-alias goodbye='sudo shutdown now'
-alias zzz='systemctl sleep'
+alias fetch='fastfetch'
 alias :q='exit'
 alias tlscl='tailscale'
+
+# Power States
+alias goodbye='sudo shutdown now'
+alias zzz='systemctl sleep'
