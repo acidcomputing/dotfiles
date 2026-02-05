@@ -1,4 +1,4 @@
-## A c i d  C o m p u t i n g  ##############
+# :: a c i d c o m p u t i n g :: 
 # Zsh aliases
 
 # Navigation
