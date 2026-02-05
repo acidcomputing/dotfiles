@@ -1,4 +1,4 @@
-# :: a c i d c o m p u t i n g :: #
+# :: a c i d c o m p u t i n g ::
 # Beware! This file is rewritten by htop when settings are changed in the interface.
 # The parser is also very primitive, and not human-friendly.
 htop_version=3.4.1
