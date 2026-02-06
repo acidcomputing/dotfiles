@@ -53,7 +53,7 @@
             "type": "shell"
         },
         {
-            "key": "║ {#33}󰍛 {#0;37}cpu     {#keys}║",
+            "key": "║ {#33}󰍛 {#0;37}CPU     {#keys}║",
             "type": "cpu",
             "showPeCoreCount": true
         },
