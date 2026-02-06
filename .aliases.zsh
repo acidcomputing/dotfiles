@@ -11,7 +11,7 @@ alias ...='cd ../..'
 
 # Personal
 alias ff='fastfetch'
-alias fetch='fastfetch'
+alias fetch='fastfetch --config none'
 alias :q='exit'
 alias tlscl='tailscale'
 
