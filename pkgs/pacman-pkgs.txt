@@ -119,6 +119,7 @@ vlc
 vlc-plugins-all
 wget
 wine
+wl-clipboard
 yt-dlp
 zsh
 zsh-autosuggestions
