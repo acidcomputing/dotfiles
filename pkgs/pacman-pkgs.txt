@@ -65,10 +65,11 @@ mtools
 mtpfs
 nano
 neovim
+netctl
 network-manager-applet
 networkmanager
-nmap
 nicotine+
+nmap
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
@@ -109,8 +110,8 @@ tailscale
 telegram-desktop
 thunderbird
 timeshift
-torbrowser-launcher
 tmux
+torbrowser-launcher
 tree
 ttf-ibm-plex
 ufw
