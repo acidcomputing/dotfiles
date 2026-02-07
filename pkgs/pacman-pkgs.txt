@@ -65,7 +65,6 @@ mtools
 mtpfs
 nano
 neovim
-netctl
 network-manager-applet
 networkmanager
 nicotine+
