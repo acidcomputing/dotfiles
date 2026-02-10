@@ -120,6 +120,7 @@ vlc-plugins-all
 wget
 wine
 wl-clipboard
+xdg-user-dirs
 yt-dlp
 zsh
 zsh-autosuggestions
