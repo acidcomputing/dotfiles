@@ -121,6 +121,7 @@ tmux
 torbrowser-launcher
 tree
 ttf-ibm-plex
+ttf-iosevka-nerd
 ufw
 vim
 vlc
