@@ -55,6 +55,8 @@ libxnvctrl
 linux
 linux-firmware
 linux-headers
+linux-zen
+linux-zen-headers
 lolcat
 lvm2
 macchina
