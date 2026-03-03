@@ -18,6 +18,7 @@ cantarell-fonts
 cmatrix
 cmus
 cowsay
+cups
 dosfstools
 efibootmgr
 element-desktop
