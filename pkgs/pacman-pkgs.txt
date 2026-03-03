@@ -96,6 +96,9 @@ prismlauncher
 qbittorrent
 ranger
 reflector
+retroarch
+retroarch-assets-ozone
+retroarch-assets-xmb
 ripgrep
 rsync
 signal-desktop
