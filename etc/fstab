@@ -1,0 +1,47 @@
+# :: a c i d c o m p u t i n g :: 
+# :: <hostname>'s fstab file <202X-XX-XX 00:00:00> last change <202X-XX-XX 00:00:00>
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# /dev/mapper/main :: Samsung 990 EVO Plus 2TB
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/         	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/home     	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@home	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/opt      	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@opt	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/srv      	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@srv	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/var/cache	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@cache	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/var/lib/libvirt/images	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@images	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/var/log  	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@log	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNN-NxxN-NxNN-NxNNNNNxxNNN	/var/spool	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@spool	0 0
+
+# /dev/mapper/vg1-arch LABEL=arch
+UUID=NxNxNxNN-xxNx-NxxN-NxNN-NxNNNNNxxNNN	/var/tmp  	btrfs     	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=/@tmp	0 0
+
+# /dev/nvme0n1p1 LABEL=boot
+UUID=NNxx-NNNN      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/mapper/vg1-swap LABEL=swap
+UUID=NxxxxNxx-xNNN-NNxx-NxNx-NNxNNNxNNxNx	none      	swap      	defaults  	0 0
+
+## :: A d d i t i o n a l  D r i v e s ::
+# /dev/mapper/barracuda :: Seagate Barracuda 
+UUID=xxNxxNxN-NxNN-NxNN-NxxN-NxxNNNNNxxxx	/mnt/barracuda	btrfs	rw,noatime,discard=async,space_cache=v2,autodefrag	0 2
+
+# /dev/mapper/apsfg :: ADATA-APFSG-1T-CSUS 1TB
+UUID=xNNxxxxx-NxNN-NNNN-NxNx-NNxxNNxNNxNx	/mnt/apsfg	btrfs	rw,noatime,compress=zstd:3,ssd,discard=async,space_cache=v2	0 2
