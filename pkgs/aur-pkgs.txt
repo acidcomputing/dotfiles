@@ -17,4 +17,4 @@ rustdesk-bin
 stremio
 tidal-dl-ng
 vencord-bin
-vscodium
+vscodium-bin
