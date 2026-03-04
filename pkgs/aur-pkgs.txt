@@ -4,6 +4,7 @@ cbonsai
 dupeguru
 electronmail-bin
 flatseal
+fluffychat-bin
 heroic-games-launcher-bin
 jellyfin-desktop
 librewolf-bin
