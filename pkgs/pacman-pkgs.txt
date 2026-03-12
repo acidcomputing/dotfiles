@@ -52,6 +52,7 @@ keepassxc
 kitty
 lazygit
 lib32-nvidia-utils
+lib32-vkd3d
 libxnvctrl
 linux
 linux-firmware
@@ -125,8 +126,10 @@ ttf-ibm-plex
 ttf-iosevka-nerd
 ufw
 vim
+vkd3d
 vlc
 vlc-plugins-all
+
 wget
 wine
 wl-clipboard
