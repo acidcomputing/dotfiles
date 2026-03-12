@@ -10,7 +10,7 @@ jellyfin-desktop
 librewolf-bin
 lrcget-bin
 onlyoffice-bin
-openrgb-bin
+openrgb-git
 openrgb-plugin-effects-git
 pamac-flatpak
 qdiskinfo-bin
