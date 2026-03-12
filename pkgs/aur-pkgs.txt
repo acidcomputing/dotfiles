@@ -12,7 +12,7 @@ lrcget-bin
 onlyoffice-bin
 openrgb-git
 openrgb-plugin-effects-git
-pamac
+pamac-flatpak
 qdiskinfo-bin
 rustdesk-bin
 stremio-enhanced-bin
