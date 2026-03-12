@@ -94,6 +94,8 @@ pipewire-pulse
 plymouth
 powertop
 prismlauncher
+proton-vpn-gtk-app
+proton-vpn-cli
 qbittorrent
 ranger
 reflector
@@ -129,7 +131,6 @@ vim
 vkd3d
 vlc
 vlc-plugins-all
-
 wget
 wine
 wl-clipboard
