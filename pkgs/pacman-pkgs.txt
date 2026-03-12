@@ -120,6 +120,7 @@ timeshift
 tmux
 torbrowser-launcher
 tree
+ttf-firacode-nerd
 ttf-ibm-plex
 ttf-iosevka-nerd
 ufw
