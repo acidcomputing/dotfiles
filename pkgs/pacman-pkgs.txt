@@ -91,6 +91,8 @@ pavucontrol
 pipewire
 pipewire-jack
 pipewire-pulse
+plasma
+plasma-desktop
 plymouth
 powertop
 prismlauncher
