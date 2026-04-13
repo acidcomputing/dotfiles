@@ -1,0 +1,1 @@
+/home/acid/Dev/Git/dotfiles/.config/fastfetch/logo.txt
