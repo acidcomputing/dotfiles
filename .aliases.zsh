@@ -8,6 +8,9 @@ alias l='ls -CF'
 alias ..='cd ..'
 alias ...='cd ../..'
 
+# editors
+alias e='emacsclient -nw'
+
 # personal
 alias ff='fastfetch'
 alias fetch='fastfetch --config none'
