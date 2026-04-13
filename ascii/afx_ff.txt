@@ -1,1 +1,7 @@
-/home/acid/Dev/Git/dotfiles/.config/fastfetch/logo.txt
+$1 _________
+(___,-,   \
+     /     \
+    /   /\ $1 \
+$1   /$1 ,_)  \. \
+  (_/       \ \
+             \_)
