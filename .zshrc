@@ -25,6 +25,7 @@ setopt hist_verify
 # --- PATH ---
 export PATH="$PATH:$HOME/.local/bin"
 export PATH=$PATH:/usr/games
+export PATH="$PATH:$HOME/.config/emacs/bin"
 
 # --- aliases ---
 if [[ -f "$HOME/.aliases.zsh" ]]; then
