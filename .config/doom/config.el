@@ -22,6 +22,9 @@
 (setq scroll-preserve-screen-position t)
 ;; Kill autosave
 (setq auto-save-default nil)
+;; Vterm shell
+(setq vterm-shell "/usr/bin/zsh")
+
 
 ;; --- O r g  M o d e ---
 (setq org-directory "~/SyncPool/DBs/PKMS/Org")
