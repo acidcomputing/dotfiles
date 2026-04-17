@@ -141,6 +141,14 @@ swptpm
 syncthing
 tailscale
 telegram-desktop
+texlive-basic
+texlive-binextra
+texlive-fontsextra
+texlive-fontsrecommended
+texlive-latex
+texlive-latexextra
+texlive-latexrecommended
+texlive-xetex
 thunderbird
 timeshift
 tmux
