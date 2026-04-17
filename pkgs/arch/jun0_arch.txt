@@ -135,7 +135,6 @@ sof-firmware
 solaar
 steam
 stellarium
-stow
 strace
 strawberry
 sudo
