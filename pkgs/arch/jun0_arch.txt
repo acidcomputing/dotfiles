@@ -23,7 +23,7 @@ cockpit-files
 cockpit-machines
 cockpit-packagekit
 cockpit-podman
-cockpitstoraged
+cockpit-storaged
 cowsay
 cups
 dnsmasq
