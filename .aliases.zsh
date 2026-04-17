@@ -21,3 +21,6 @@ alias tlscl='tailscale'
 # power
 alias byebye='sudo shutdown now'
 alias zzz='systemctl sleep'
+
+# other
+alias py='python3'
