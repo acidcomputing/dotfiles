@@ -2,11 +2,11 @@
 ;; ~/.config/doom/config.el
 
 ;; --- F o n t s ---
-(setq doom-font             (font-spec :family "JetBrains Mono Slashed" :size 17)
+(setq doom-font                (font-spec :family "JetBrains Mono Slashed" :size 17)
       doom-variable-pitch-font (font-spec :family "Inter" :size 15)
-      doom-serif-font       (font-spec :family "FreeSerif" :size 19)
-      doom-symbol-font      (font-spec :family "JetBrains Mono Slashed" :size 17)
-      doom-big-font         (font-spec :family "JetBrains Mono Slashed" :size 24))
+      doom-serif-font          (font-spec :family "FreeSerif" :size 19)
+      doom-symbol-font         (font-spec :family "JetBrains Mono Slashed" :size 17)
+      doom-big-font            (font-spec :family "JetBrains Mono Slashed" :size 24))
 
 ;; --- T h e m e s ---
 (setq doom-theme 'doom-outrun-electric)
