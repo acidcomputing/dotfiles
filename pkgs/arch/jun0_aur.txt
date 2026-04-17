@@ -20,5 +20,6 @@ rpcs3-bin
 rustdesk-bin
 stremio-enhanced-bin
 tidal-dl-ng
+ttf-symbola-free
 vesktop-bin
 vscodium-bin
