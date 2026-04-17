@@ -37,8 +37,14 @@ alias ls='ls --color=auto'
 eval "$(dircolors -b)"
 
 # --- zsh tab completion ---
+# thanks to 'ctechtools' on GitHub for the speedup
+# only check the dump once a day
 autoload -Uz compinit
-compinit
+if [[ -n ~/.zcompdump(#qN.mh+24) ]]; then
+  compinit
+else
+  compinit -C
+fi
 
 # menu selection & colored completions
 zstyle ':completion:*' rehash true
