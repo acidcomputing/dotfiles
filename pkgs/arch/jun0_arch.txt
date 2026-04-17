@@ -139,7 +139,7 @@ stow
 strace
 strawberry
 sudo
-swptpm
+swtpm
 syncthing
 tailscale
 telegram-desktop
