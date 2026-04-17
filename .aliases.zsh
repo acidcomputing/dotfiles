@@ -3,6 +3,7 @@
 
 # navigation
 alias ll='ls -l'
+alias lsa='ls -la'
 alias la='ls -A'
 alias l='ls -CF'
 alias ..='cd ..'
