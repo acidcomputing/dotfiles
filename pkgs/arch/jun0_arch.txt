@@ -100,6 +100,7 @@ obsidian
 openbsd-netcat
 openssh
 os-prober
+otf-latin-modern
 papirus-icon-theme
 pavucontrol
 picard
@@ -158,6 +159,7 @@ ttf-firacode-nerd
 ttf-ibm-plex
 ttf-iosevka-nerd
 ttf-nerd-fonts-symbols
+ttf-roboto
 tuned
 vim
 virt-install
