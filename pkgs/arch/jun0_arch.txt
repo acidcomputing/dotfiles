@@ -52,7 +52,7 @@ git
 gnu-free-fonts
 grub
 grub-btrfs
-guestfstools
+guestfs-tools
 handbrake
 htop
 hyfetch
