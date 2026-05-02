@@ -115,6 +115,7 @@ powertop
 prismlauncher
 proton-vpn-cli
 proton-vpn-gtk-app
+python-pipx
 qbittorrent
 qemu-full
 qemu-img
