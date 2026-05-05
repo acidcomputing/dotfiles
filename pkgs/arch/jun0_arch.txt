@@ -175,6 +175,7 @@ wget
 wine
 wl-clipboard
 xdg-user-dirs
+xmrig
 yt-dlp
 zsh
 zsh-autosuggestions
