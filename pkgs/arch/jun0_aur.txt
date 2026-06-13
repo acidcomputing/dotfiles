@@ -11,6 +11,7 @@ heroic-games-launcher-bin
 jellyfin-desktop
 librewolf-bin
 lrcget-bin
+obs-pipewire-audio-capture
 onlyoffice-bin
 openrgb-git
 openrgb-plugin-effects-git
