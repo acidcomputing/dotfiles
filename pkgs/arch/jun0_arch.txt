@@ -142,6 +142,7 @@ sudo
 swtpm
 syncthing
 tailscale
+tauon-music-box
 telegram-desktop
 texlive-basic
 texlive-binextra
