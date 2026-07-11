@@ -65,6 +65,7 @@ kscreen
 lazygit
 lib32-nvidia-utils
 lib32-vkd3d
+libreoffice-fresh
 libosinfo
 libvirt
 libxnvctrl
