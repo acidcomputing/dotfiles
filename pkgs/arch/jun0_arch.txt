@@ -28,6 +28,7 @@ cowsay
 cups
 dnsmasq
 dosfstools
+easyeffects
 edk2-ovmf
 efibootmgr
 element-desktop
