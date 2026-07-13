@@ -78,6 +78,7 @@ linux-zen
 linux-zen-headers
 lmms
 lolcat
+lsp-plugins
 luanti
 lvm2
 macchina
