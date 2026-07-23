@@ -125,6 +125,7 @@ qbittorrent
 qemu-full
 qemu-img
 ranger
+readest
 reflector
 retroarch
 retroarch-assets-ozone
