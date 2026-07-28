@@ -18,13 +18,16 @@
 ;; 2 space tabs, no tabs.
 (setq-default tab-width 2
               indent-tabs-mode nil)
-;; Scrolling
+;; --- S c r o l l i n g ---
 (setq scroll-preserve-screen-position t)
-;; Kill autosave
-(setq auto-save-default nil)
-;; Vterm shell
-(setq vterm-shell "/usr/bin/zsh")
 
+;; --- A u t o s a v e 
+(setq auto-save-default nil)
+
+;; --- V t e r m ---
+(setq vterm-shell "/usr/bin/zsh")
+(setq vterm-max-scrollback 10000)
+(setq vterm-timer-delay 0.01)
 
 ;; --- O r g  M o d e ---
 (setq org-directory "~/SyncPool/DBs/PKMS/Org")
