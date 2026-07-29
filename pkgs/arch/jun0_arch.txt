@@ -51,6 +51,7 @@ gamescope
 gdb
 gdm
 git
+glow
 gnu-free-fonts
 grub
 grub-btrfs
