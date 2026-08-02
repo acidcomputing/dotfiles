@@ -28,6 +28,8 @@ cockpit-storaged
 cowsay
 cups
 dnsmasq
+docker
+docker-compose
 dosfstools
 easyeffects
 edk2-ovmf
