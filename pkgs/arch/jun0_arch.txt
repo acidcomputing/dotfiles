@@ -105,6 +105,7 @@ nvidia-settings
 nvidia-utils
 obs-studio
 obsidian
+ollama
 openbsd-netcat
 openssh
 os-prober
