@@ -93,6 +93,7 @@ mkvtoolnix-gui
 mtools
 mtpfs
 nano
+nasm
 neovim
 network-manager-applet
 networkmanager
@@ -188,6 +189,7 @@ wine
 wl-clipboard
 xdg-user-dirs
 xmrig
+yasm
 yt-dlp
 zsh
 zsh-autosuggestions
