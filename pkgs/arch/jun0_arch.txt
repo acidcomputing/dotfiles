@@ -108,6 +108,7 @@ nvidia-settings
 nvidia-utils
 obs-studio
 obsidian
+okular
 ollama
 openbsd-netcat
 openssh
