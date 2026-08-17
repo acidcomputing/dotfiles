@@ -92,6 +92,7 @@ mc
 mkvtoolnix-gui
 mtools
 mtpfs
+mupdf
 nano
 nasm
 neovim
