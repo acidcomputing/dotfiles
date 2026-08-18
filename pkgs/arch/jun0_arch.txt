@@ -189,6 +189,8 @@ vlc-plugins-all
 waydroid
 wget
 wine
+wireshark-cli
+wireshark-qt
 wl-clipboard
 xdg-user-dirs
 xmrig
