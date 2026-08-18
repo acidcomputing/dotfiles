@@ -88,6 +88,7 @@ macchina
 man-db
 man-pages
 mangohud
+macchanger
 mc
 mkvtoolnix-gui
 mtools
