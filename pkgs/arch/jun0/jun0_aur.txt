@@ -5,7 +5,6 @@ cbonsai
 dupeguru
 electronmail-bin
 ferdium-bin
-flatseal
 fluffychat-bin
 heroic-games-launcher-bin
 jellium-desktop-bin
