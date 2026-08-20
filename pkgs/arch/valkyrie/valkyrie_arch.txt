@@ -10,7 +10,7 @@ cmatrix
 cmus
 cockpit
 cockpit-docker
-dockpit-files
+cockpit-files
 cockpit-machines
 cockpit-packagekit
 cockpit-podman
