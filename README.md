@@ -43,8 +43,10 @@ right: hostname, uptime, tasks, load average, disk IO, network IO, battery
 Custom config with AFX ASCII logo.
 
 ## packages
-The directory `pkgs/` contains lists of package names for the machines and distros I use. 
+The directory `pkgs/` contains lists of package names for the distributions I use separated by each machine I use. 
 Some of these may be useful to new users; dig around and see which packages and programs I use.
+
+Install the Arch Linux packages with `sudo pacman -S --needed - < packages.txt` to install a specific list of packages.
 
 ## ASCII
 ASCII art I find on the net.
