@@ -71,6 +71,7 @@ lazygit
 lib32-nvidia-utils
 lib32-vkd3d
 libreoffice-fresh
+librewolf
 libosinfo
 libvirt
 libxnvctrl
