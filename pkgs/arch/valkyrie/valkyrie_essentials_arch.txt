@@ -1,4 +1,5 @@
 acpid
+arp-scan
 alsa-utils
 base
 base-devel
