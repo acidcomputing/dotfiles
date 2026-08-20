@@ -7,7 +7,6 @@ bluez
 bluez-utils
 btop
 btrfs-progs
-calf
 cups
 efibootmgr
 emacs
