@@ -8,6 +8,7 @@ bluez-utils
 btop
 btrfs-progs
 cups
+dosfstools
 efibootmgr
 emacs
 exfatprogs
