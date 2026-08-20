@@ -1,0 +1,10 @@
+acpid
+alsa-utils
+base
+base-devel
+bluez
+bluez-utils
+btop
+btrfs-progs
+calf
+cups
