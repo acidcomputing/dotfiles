@@ -171,7 +171,6 @@ texlive-latexextra
 texlive-latexrecommended
 texlive-xetex
 thunderbird
-tiddl
 timeshift
 tmux
 torbrowser-launcher
