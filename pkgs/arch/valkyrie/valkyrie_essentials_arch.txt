@@ -12,6 +12,7 @@ dosfstools
 efibootmgr
 emacs
 exfatprogs
+fail2ban
 fastfetch
 ffmpeg
 firefox
