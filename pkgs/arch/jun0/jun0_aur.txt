@@ -7,7 +7,6 @@ electronmail-bin
 ferdium-bin
 flatseal
 fluffychat-bin
-fooyin-bin
 heroic-games-launcher-bin
 jellium-desktop-bin
 lrcget-bin
