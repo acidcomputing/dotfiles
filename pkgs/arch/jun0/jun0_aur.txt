@@ -9,7 +9,7 @@ flatseal
 fluffychat-bin
 fooyin-bin
 heroic-games-launcher-bin
-jellyfin-desktop
+jellium-desktop-bin
 lrcget-bin
 obs-pipewire-audio-capture
 onlyoffice-bin
