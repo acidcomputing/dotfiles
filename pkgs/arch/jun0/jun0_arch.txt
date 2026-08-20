@@ -92,6 +92,7 @@ mangohud
 macchanger
 mc
 mkvtoolnix-gui
+mpd
 mtools
 mtpfs
 mupdf
