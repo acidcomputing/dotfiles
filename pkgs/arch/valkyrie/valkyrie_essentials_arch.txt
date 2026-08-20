@@ -64,6 +64,7 @@ strace
 sudo
 syncthing
 tailscale
+timeshift
 tmux
 tree
 ttf-nerd-fonts-symbols
