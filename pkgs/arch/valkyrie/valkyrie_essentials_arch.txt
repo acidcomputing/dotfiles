@@ -53,6 +53,7 @@ pipewire
 pipewire-jack
 pipewire-pulse
 powertop
+python-pipx
 reflector
 ripgrep
 rsync
