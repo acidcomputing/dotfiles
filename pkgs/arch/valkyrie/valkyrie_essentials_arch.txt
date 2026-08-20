@@ -16,6 +16,7 @@ fail2ban
 fastfetch
 fd
 ffmpeg
+ffmpegthumbnailer
 firefox
 fwupd
 gdb
