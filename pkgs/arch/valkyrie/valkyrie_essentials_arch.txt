@@ -1,6 +1,6 @@
 acpid
-arp-scan
 alsa-utils
+arp-scan
 base
 base-devel
 bluez
