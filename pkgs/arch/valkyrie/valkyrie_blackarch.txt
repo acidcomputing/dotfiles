@@ -33,6 +33,7 @@ blackarch-scanner
 blackarch-sniffer
 blackarch-social
 blackarch-spoof
+blackarch-stego
 blackarch-voip
 blackarch-wallpaper
 blackarch-webapp
