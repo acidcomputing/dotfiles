@@ -23,6 +23,7 @@ blackarch-officials
 blackarch-proxy
 blackarch-recon
 blackarch-scanner
+blackarch-sniffer
 blackarch-social
 blackarch-spoof
 blackarch-voip
