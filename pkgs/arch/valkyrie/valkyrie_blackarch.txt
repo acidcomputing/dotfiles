@@ -17,6 +17,7 @@ blackarch-officials
 blackarch-recon
 blackarch-scanner
 blackarch-social
+blackarch-voip
 blackarch-wallpaper
 blackarch-webapp
 blackarch-wifi
