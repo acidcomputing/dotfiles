@@ -14,6 +14,7 @@ blackarch-menus
 blackarch-mirrorlist
 blackarch-mobile
 blackarch-officials
+blackarch-recon
 blackarch-scanner
 blackarch-social
 blackarch-wallpaper
