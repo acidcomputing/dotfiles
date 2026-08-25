@@ -11,6 +11,7 @@ blackarch-exploitation
 blackarch-networking
 blackarch-menus
 blackarch-mirrorlist
+blackarch-mobile
 blackarch-officials
 blackarch-scanner
 blackarch-wallpaper
