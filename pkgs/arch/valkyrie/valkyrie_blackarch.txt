@@ -15,6 +15,7 @@ blackarch-dos
 blackarch-exploitation
 blackarch-fingerprint
 blackarch-fuzzer
+blackarch-honeypot
 blackarch-networking
 blackarch-menus
 blackarch-mirrorlist
