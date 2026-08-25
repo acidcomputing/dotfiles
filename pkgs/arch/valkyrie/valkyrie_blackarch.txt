@@ -4,8 +4,11 @@ blackarch-config-cursor
 blackarch-config-i3
 blackarch-devtools
 blackarch-devtools-toolkit
+blackarch-exploitation
 blackarch-menus
 blackarch-mirrorlist
 blackarch-officials
+blackarch-scanner
 blackarch-wallpaper
 blackarch-wifi
+blackarch-windows
