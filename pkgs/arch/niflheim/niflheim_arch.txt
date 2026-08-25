@@ -108,3 +108,4 @@ wireshark-qt
 xmrig
 yasm
 yt-dlp
+zenmap
