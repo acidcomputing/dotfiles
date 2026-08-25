@@ -17,6 +17,7 @@ blackarch-fingerprint
 blackarch-fuzzer
 blackarch-honeypot
 blackarch-networking
+blackarch-malware
 blackarch-menus
 blackarch-mirrorlist
 blackarch-misc
