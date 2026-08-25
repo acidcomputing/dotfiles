@@ -16,5 +16,6 @@ blackarch-mobile
 blackarch-officials
 blackarch-scanner
 blackarch-wallpaper
+blackarch-webapp
 blackarch-wifi
 blackarch-windows
