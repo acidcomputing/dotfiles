@@ -6,7 +6,8 @@ dupeguru
 electronmail-bin
 ferdium-bin
 fluffychat-bin
-gns3
+gns3-gui
+gns3-server
 heroic-games-launcher-bin
 jellium-desktop-bin
 lrcget-bin
