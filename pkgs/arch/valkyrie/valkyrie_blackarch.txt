@@ -1,5 +1,6 @@
 blackarch-artwork
 blackarch-backdoor
+blackarch-binary
 blackarch-config-bash
 blackarch-config-cursor
 blackarch-config-i3
