@@ -13,6 +13,7 @@ blackarch-devtools
 blackarch-devtools-toolkit
 blackarch-dos
 blackarch-exploitation
+blackarch-forensic
 blackarch-fingerprint
 blackarch-fuzzer
 blackarch-honeypot
