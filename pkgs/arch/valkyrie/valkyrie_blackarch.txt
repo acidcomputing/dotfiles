@@ -24,6 +24,7 @@ blackarch-proxy
 blackarch-recon
 blackarch-scanner
 blackarch-social
+blackarch-spoof
 blackarch-voip
 blackarch-wallpaper
 blackarch-webapp
