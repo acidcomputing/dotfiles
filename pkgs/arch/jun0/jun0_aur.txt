@@ -6,6 +6,7 @@ dupeguru
 electronmail-bin
 ferdium-bin
 fluffychat-bin
+gns3
 heroic-games-launcher-bin
 jellium-desktop-bin
 lrcget-bin
