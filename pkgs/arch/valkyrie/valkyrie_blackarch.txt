@@ -11,6 +11,7 @@ blackarch-config-i3
 blackarch-cracker
 blackarch-crypto
 blackarch-database
+blackarch-debugger
 blackarch-decompiler
 blackarch-defensive
 blackarch-devtools
