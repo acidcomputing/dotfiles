@@ -3,6 +3,7 @@ blackarch-artwork
 blackarch-automation
 blackarch-backdoor
 blackarch-binary
+blackarch-bluetooth
 blackarch-code-audit
 blackarch-config-bash
 blackarch-config-cursor
