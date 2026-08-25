@@ -8,6 +8,7 @@ blackarch-config-cursor
 blackarch-config-i3
 blackarch-cracker
 blackarch-crypto
+blackarch-defensive
 blackarch-devtools
 blackarch-devtools-toolkit
 blackarch-dos
