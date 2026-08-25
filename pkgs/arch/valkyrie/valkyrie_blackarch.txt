@@ -21,6 +21,7 @@ blackarch-misc
 blackarch-mobile
 blackarch-officials
 blackarch-proxy
+blackarch-radio
 blackarch-recon
 blackarch-scanner
 blackarch-sniffer
