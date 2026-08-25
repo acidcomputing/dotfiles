@@ -24,6 +24,7 @@ blackarch-fingerprint
 blackarch-firmware
 blackarch-fuzzer
 blackarch-honeypot
+blackarch-keylogger
 blackarch-networking
 blackarch-malware
 blackarch-menus
