@@ -47,3 +47,4 @@ blackarch-wallpaper
 blackarch-webapp
 blackarch-wireless
 blackarch-windows
+zenmap
