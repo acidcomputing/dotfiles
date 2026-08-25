@@ -1,4 +1,5 @@
 blackarch-artwork
+blackarch-automation
 blackarch-backdoor
 blackarch-binary
 blackarch-code-audit
