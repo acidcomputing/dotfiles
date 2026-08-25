@@ -17,6 +17,7 @@ blackarch-dos
 blackarch-exploitation
 blackarch-forensic
 blackarch-fingerprint
+blackarch-firmware
 blackarch-fuzzer
 blackarch-honeypot
 blackarch-networking
