@@ -15,6 +15,7 @@ blackarch-mirrorlist
 blackarch-mobile
 blackarch-officials
 blackarch-scanner
+blackarch-social
 blackarch-wallpaper
 blackarch-webapp
 blackarch-wifi
