@@ -9,6 +9,7 @@ blackarch-crypto
 blackarch-devtools
 blackarch-devtools-toolkit
 blackarch-exploitation
+blackarch-fingerprint
 blackarch-fuzzer
 blackarch-networking
 blackarch-menus
