@@ -18,6 +18,7 @@ blackarch-menus
 blackarch-mirrorlist
 blackarch-mobile
 blackarch-officials
+blackarch-proxy
 blackarch-recon
 blackarch-scanner
 blackarch-social
