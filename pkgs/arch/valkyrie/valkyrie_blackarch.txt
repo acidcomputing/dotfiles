@@ -17,6 +17,7 @@ blackarch-fuzzer
 blackarch-networking
 blackarch-menus
 blackarch-mirrorlist
+blackarch-misc
 blackarch-mobile
 blackarch-officials
 blackarch-proxy
