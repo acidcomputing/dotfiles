@@ -13,6 +13,7 @@ blackarch-crypto
 blackarch-defensive
 blackarch-devtools
 blackarch-devtools-toolkit
+blackarch-disassembler
 blackarch-dos
 blackarch-exploitation
 blackarch-forensic
