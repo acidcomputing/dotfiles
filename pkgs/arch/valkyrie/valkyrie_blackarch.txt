@@ -9,6 +9,7 @@ blackarch-cracker
 blackarch-crypto
 blackarch-devtools
 blackarch-devtools-toolkit
+blackarch-dos
 blackarch-exploitation
 blackarch-fingerprint
 blackarch-fuzzer
