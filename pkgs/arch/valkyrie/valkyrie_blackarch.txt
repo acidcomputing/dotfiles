@@ -5,6 +5,7 @@ blackarch-config-i3
 blackarch-devtools
 blackarch-devtools-toolkit
 blackarch-exploitation
+blackarch-networking
 blackarch-menus
 blackarch-mirrorlist
 blackarch-officials
