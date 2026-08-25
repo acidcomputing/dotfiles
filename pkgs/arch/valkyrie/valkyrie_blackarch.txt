@@ -27,5 +27,5 @@ blackarch-social
 blackarch-voip
 blackarch-wallpaper
 blackarch-webapp
-blackarch-wifi
+blackarch-wireless
 blackarch-windows
