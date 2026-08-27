@@ -194,6 +194,7 @@ wine
 wireshark-cli
 wireshark-qt
 wl-clipboard
+woeusb-ng
 xdg-user-dirs
 xmrig
 yasm
