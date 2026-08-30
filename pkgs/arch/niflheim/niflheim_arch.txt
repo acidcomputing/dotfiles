@@ -30,6 +30,7 @@ foliate
 font-manager
 fooyin
 fortune-mod
+freerdp
 gamescope
 glow
 gnu-free-fonts
