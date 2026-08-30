@@ -49,6 +49,7 @@ foliate
 font-manager
 fooyin
 fortune-mod
+freerdp
 fwupd
 gamescope
 gdb
