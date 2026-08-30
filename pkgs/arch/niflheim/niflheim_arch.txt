@@ -16,6 +16,7 @@ cockpit-packagekit
 cockpit-podman
 cockpit-storaged
 cowsay
+discord
 dnsmasq
 docker
 docker-compose
