@@ -5,11 +5,12 @@
 ```
 
 # dotfiles
-This is my dotfiles repo. Built over the course of my GNU/Linux and *nix journey, these are the configs that I've hacked together and use in my systems. Still in development.
+Welcome to my dotfiles repo. Built over the course of my GNU/Linux and *nix journey, these are the configs that I've hacked together and actively use for my systems. 
+WIP
 
 ## zsh
 `.zshrc` and `.aliases.zsh` contain the z shell configuration and shell aliases, respectively.
-My Z shell config aims to be relatively simple, contains a couple of quality-of-life features and is tested and running on Arch Linux and Debian GNU/Linux. 
+My Z shell config aims to be relatively simple, contains a couple of quality-of-life features and is tested and running on Arch Linux and Debian GNU/Linux.
 The zsh prompt uses a modified variant of the `fox` P10K zsh theme. 
 
 Features:
@@ -20,7 +21,7 @@ Features:
 - aliases: Kali ls aliases, custom ones.
 
 ## pacman
-Not much to this config:
+Two tweaks:
 - `ILoveCandy`: enables pacman pellet effect when syncing.
 - Parallel Downloads.
 - Multilib enabled (Steam and other 32-bit programs.)
@@ -52,5 +53,5 @@ Install the Arch Linux packages with `sudo pacman -S --needed - < packages.txt` 
 ASCII art I find on the net.
 
 ## wallpapers
-The wallpapers I use on my machines. Mosly Boards of Canada or IDM related. 
+The wallpapers I use on my machines. Mosly IDM related. 
 
