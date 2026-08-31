@@ -38,6 +38,7 @@ handbrake
 hyfetch
 kdenlive
 keepassxc
+krdc
 lazygit
 libosinfo
 libreoffice-fresh
