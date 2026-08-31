@@ -100,6 +100,7 @@ tuned
 virt-install
 virt-manager
 virt-viewer
+vivaldi
 vkd3d
 vlc
 vlc-plugins-all
