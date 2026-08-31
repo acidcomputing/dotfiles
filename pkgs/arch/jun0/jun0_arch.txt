@@ -68,6 +68,7 @@ ifuse
 kdenlive
 keepassxc
 kitty
+krdp
 kscreen
 lazygit
 lib32-nvidia-utils
