@@ -60,6 +60,7 @@ obs-studio
 obsidian
 okular
 otf-latin-modern
+pacman-contrib
 papirus-icon-theme
 picard
 prismlauncher
