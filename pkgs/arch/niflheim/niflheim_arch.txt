@@ -70,6 +70,7 @@ qemu-full
 qemu-img
 ranger
 readest
+remmina
 retroarch
 retroarch-assets-ozone
 retroarch-assets-xmb
